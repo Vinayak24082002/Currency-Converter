@@ -32,7 +32,7 @@ function CurrencyConverter() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <div className="max-w-lg w-full p-8 bg-gradient-to-r from-slate-950 via-purple-500 to-yellow-400 text-white shadow-2xl rounded-lg">
+      <div className="max-w-lg w-full p-8 bg-gradient-to-r from-slate-950 via-purple-500 to-green-400 text-white shadow-2xl rounded-lg">
         <h1 className="text-3xl font-bold mb-8 text-center">Currency Converter</h1>
         <div className="grid grid-cols-2 gap-6">
           <div>
